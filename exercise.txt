@@ -1,0 +1,4 @@
+simple if decision making
+    1) write a program to decide type of shape (square,portrait, landscape) from given length and width 
+
+    2) write a program to accept product cost and sale price of product. calculate and display profit or loss amount 
