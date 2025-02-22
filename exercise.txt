@@ -2,3 +2,10 @@ simple if decision making
     1) write a program to decide type of shape (square,portrait, landscape) from given length and width 
 
     2) write a program to accept product cost and sale price of product. calculate and display profit or loss amount 
+
+if else decision making
+
+    1) write a program to findout whether given year is millennium year or not.
+    2) write a program to findout elder siblings from two siblings given age. 
+    3) write a program to findout cheaper product to buy from given weight and price of 2 project 
+    
