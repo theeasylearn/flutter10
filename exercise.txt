@@ -9,3 +9,10 @@ if else decision making
     2) write a program to findout elder siblings from two siblings given age. 
     3) write a program to findout cheaper product to buy from given weight and price of 2 project 
     
+if else if ladder 
+    1) write a program to calculate bmi and display obesity level of person from given height
+    (foot and inch) and weight.
+
+    2) write a program to accept month number from user and display name of the month 
+
+    
