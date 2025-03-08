@@ -67,3 +67,9 @@ for loop
 --------------------------------------------------------------
 1) write a program to program exponent of given value 
 2) write a program to findout minimum and maximum from numeric list 
+
+
+anonymous functions
+----------------------------------
+1) write a program to count cricket play countries from given list of countries.
+2) write a program to find armstrong numbers in given list. 
