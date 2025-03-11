@@ -73,3 +73,15 @@ anonymous functions
 ----------------------------------
 1) write a program to count cricket play countries from given list of countries.
 2) write a program to find armstrong numbers in given list. 
+
+
+class and objects
+-----------------------------------------------------------------
+1) create class Teacher. 
+    it has below instance variables
+        name,gender,dob,education,weight
+    methods:
+        set method to set each instance variables
+        display() method to display value 
+    
+2) replace set methods by constructor
