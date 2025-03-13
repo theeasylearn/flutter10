@@ -85,3 +85,11 @@ class and objects
         display() method to display value 
     
 2) replace set methods by constructor
+
+3) create Class Distance it has one instance variable inches 
+    create setter to set inches 
+    and create getter 
+        foot
+        meter 
+        KM
+        Mile 
