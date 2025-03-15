@@ -93,3 +93,11 @@ class and objects
         meter 
         KM
         Mile 
+
+inheritance 
+    Single Level 
+        1) create class Foot that has constructor accept inches and function getFoot() which returns foot 
+        
+           create class Meter that extends Foot class and has method getMeter which returns meter of given inches
+        
+            
