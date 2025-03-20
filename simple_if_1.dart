@@ -12,14 +12,25 @@ import 'dart:io';
 void main()
 {
     int num=0,qube=0;
-    print("Enter number");
-    num = int.parse(stdin.readLineSync().toString()); // -10
-    if (num<0) // == != < > <= >=
-    {
-        print("number is negative, so let us convert it into positive");
-        num = -num; // 20
-    }
-    qube = num * num * num;
-    print("qube = $qube");
     
+    while(true)
+    {
+        try 
+        {
+            print("Enter number");
+            num = int.parse(stdin.readLineSync().toString()); // -10
+            if (num<0) // == != < > <= >=
+            {
+                print("number is negative, so let us convert it into positive");
+                num = -num; // 20
+            }
+                qube = num * num * num;
+                print("qube = $qube");
+                break;
+        }
+        on FormatException
+        {
+            print("invalid input only numbers are allowed");
+        }
+    }
 }
